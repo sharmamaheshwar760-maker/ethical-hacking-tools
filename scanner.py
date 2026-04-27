@@ -10,4 +10,4 @@ for port in range(1,1025):
         s.close()
     except:
         pass
-print("\nscan complete!")
+print("\nscan complete!") 
