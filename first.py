@@ -1,6 +1,4 @@
-name="MAHESHWAR SHARMA"
-age=15
+name="user"
 print("name:",name)
-print("Age:",age)
 target=input("enter a website to scan:")
 print("target set to:",target)
