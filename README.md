@@ -1,2 +1,3 @@
 # ethical-hacking-tools
-a collection of python security and ethical hacking tools
+a collection of python security and ethical hacking tools.......
+        First enter website address in first.py and then scan open ports via scanner.py and then you know what to do!!
